@@ -5,5 +5,7 @@ This will find a random player from the [ausmash database](https://ausmash.com.a
 
 This repo shouldn't need any prerequisites to modify the source, but to be honest this isn't really worth looking at if you're any kind of developer, since it's a super simple use of the ausmash api.
 
+If you wanna compile the source, you'll need to add a file called `apikey.py` and add your ausmash api key here: `key = "KEY"`
+
 # How do I play?
 Downloads can be found on the releases page to the right, just download GuessTheElo.exe and run that.
